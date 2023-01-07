@@ -17,6 +17,17 @@
     background: #FD6E0A;
     border-radius: 5px;
 }
+.btn-primary-contact{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    background: #FD6E0A;
+    border-radius: 5px;
+    margin-left: 30px;
+}
 
 .header {
     background: rgba(253, 110, 10, 0.15);
